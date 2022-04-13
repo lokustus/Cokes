@@ -7,7 +7,6 @@ var appShellFiles = [
     '/Cokes/Noi.php',
     '/Cokes/Productos.php',
     '/Cokes/img/CokesL3.png',
-    '/Cokes/js/apps.js',
     '/Cokes/img/Contacto.jpg',
     '/Cokes/img/contactoo.jpg',
     '/Cokes/img/NosotrosImagen.jpg',
