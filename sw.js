@@ -15,8 +15,6 @@ var appShellFiles = [
     '/Cokes/img/produitos.jpg',
     '/Cokes/img/Ubicacion2.jpg',
     '/Cokes/img/CokesL1.png',
-    '/Cokes/img/bocarousel.png',
-    '/Cokes/img/bodega.png',
     '/Cokes/img/iconos/atencion.png',
     '/Cokes/img/iconos/bod.png',
     '/Cokes/img/iconos/bodcarga.png',
